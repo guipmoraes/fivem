@@ -11,13 +11,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "@cfx-dev/ui-components": "^0.0.21",
+    "@cfx-dev/ui-components": "^2.0.0",
     "@sentry/react": "^7.14.0",
     "@sentry/tracing": "^7.14.0",
     "adaptivecards": "^2.10.0",
     "blurhash": "^1.1.5",
     "color": "^4.2.1",
-    "date-fns": "^2.28.0",
+    "date-fns": "^3.0.0",
     "dexie": "^3.2.2",
     "domhandler": "^5.0.3",
     "emoji-regex": "^10.0.0",
